@@ -1,5 +1,5 @@
 Olá! Sou Tania Aparecida Cavalcanti de Lima Isidoro, uma profissional apaixonada por tecnologia e desenvolvimento de software. 
-Desde o inicio de minha graduação em Tecnologia, venho aprofundando meus conhecimentos em qualidade de software e testes, sempre buscando garantir a robustez e eficiência dos sistemas desenvolvidos.
+Desde o inicio de minha graduação em Tecnologia, venho aprofundando meus conhecimentos em qualidade de software e testes, sempre buscando garantir a qualidade e eficiência dos sistemas desenvolvidos.
 
 Minha trajetória inclui experiência em sistemas de segurança eletrônica, e sistemas de controle de acesso incluindo  monitoramento. Tenho habilidades em, gerenciamento de projetos ágeis e análise de dados. Meu objetivo é sempre entregar soluções confiáveis e inovadoras, contribuindo ativamente para o crescimento e sucesso das equipes com as quais trabalho.
 
