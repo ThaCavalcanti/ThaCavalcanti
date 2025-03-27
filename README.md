@@ -5,5 +5,5 @@ Minha trajetória inclui experiência em sistemas de segurança eletrônica, e s
 
 Estou constantemente em busca de novos desafios e oportunidades para expandir meus conhecimentos. Se você precisa de uma profissional dedicada, detalhista e comprometida com a qualidade do software, estou pronta para contribuir e construir algo incrível juntos!
 
-Graduanda em Tecnologia em Análise e Desenvolvimento de Sistemas, busco a posição de Analista de Teste de Software Júnior. Tenho experiência em operação de sistemas de segurança eletrônica, sistemas de controle de acesso e monitoramento. Sou apaixonada por tecnologia e qualidade de software, e desejo contribuir para o aprimoramento e eficiência dos sistemas desenvolvidos.
+Graduanda em Tecnologia em Análise e Desenvolvimento de Sistemas, busco a posição de Analista de Teste de Software Júnior. Tenho experiência em operação e configuração de sistemas de segurança eletrônica e CFTV, sistemas de controle de acesso e monitoramento. Sou apaixonada por tecnologia e qualidade de software, e desejo contribuir para o aprimoramento e eficiência dos sistemas desenvolvidos.
 
